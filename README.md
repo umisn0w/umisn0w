@@ -1,7 +1,4 @@
 <p align="center">
-  <!-- local: my header image -->
-  <img src="crop.gif" width="500" height="200">
-  <br>
   <!-- getloli: profile views counter -->
   <img src="https://count.getloli.com/get/@umisn0w?theme=rule34">
   <br>
